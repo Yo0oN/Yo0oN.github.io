@@ -21,8 +21,12 @@
   icon: 'fa fa-hand-spock-o'
 =======
   type: notion
+<<<<<<< HEAD
   icon: 'fab fa-hand-spock-o'
 >>>>>>> add98f2... 깃허브 블로그 생성
+=======
+  icon: 'fa fa-hand-spock-o'
+>>>>>>> 7414057... Update contact.yml
 -
   type: email
   icon: 'fas fa-envelope'
