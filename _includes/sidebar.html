@@ -68,7 +68,7 @@
     {% capture url %}
       {%- if entry.type == 'github' -%}
         https://github.com/{{ site.github.username }}
-      {%- elsif entry.type == 'notion' -%}
+      {%- elsif entry.type == 'twitter' -%}
         https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
