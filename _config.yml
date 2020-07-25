@@ -12,8 +12,16 @@ title: Yo0oN                          # the main title
 
 tagline: Yo0oN's blog.  # it will display as the sub-title
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 description: >-                        # used by seo meta and the atom feed
   Yo0oN's blog.
+=======
+description: Hi                        # used by seo meta and the atom feed
+>>>>>>> 7664893... Update _config.yml
+=======
+description: Yo0oN's blog                        # used by seo meta and the atom feed
+>>>>>>> b592793... Update _config.yml
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -25,6 +33,9 @@ avatar: /assets/img/avatar.jpg   # support internet resources 프로필 사진 �
 github:
   username: Yo0oN             # change to your github username
 
+notion:
+  username: chl4855            # change to your twitter username
+
 #twitter:
   #username: twitter_username            # change to your twitter username
 
@@ -33,6 +44,13 @@ social:
   email: 4855chl@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
+>>>>>>> 7664893... Update _config.yml
+=======
+>>>>>>> b592793... Update _config.yml
     - https://github.com/Yo0oN       # change to your github homepage
     - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     # Uncomment below to add more social links
@@ -45,8 +63,20 @@ social:
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 # 깃허브 블로그로 사용중이니 빈칸으로 둔다. 만약 프로젝트 이름을 적는다면 이름/github.io/프로젝트 로 도메인이 바뀐다.
 baseurl: ''
+=======
+baseurl: '/Yo0oN.githum.io'
+>>>>>>> 7664893... Update _config.yml
+=======
+=======
+# 깃허브 블로그로 사용중이니 빈칸으로 둔다. 만약 프로젝트 이름을 적는다면 이름/github.io/프로젝트 로 도메인이 바뀐다.
+>>>>>>> 650c294... Update _config.yml
+baseurl: ''
+>>>>>>> bf8d8bd... Update _config.yml
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
@@ -187,6 +217,7 @@ exclude:
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
+    - /images/
   accurate:
     - /norobots/
     - /tabs/
