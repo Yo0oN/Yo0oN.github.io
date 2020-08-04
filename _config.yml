@@ -14,7 +14,9 @@ tagline: Yo0oN's blog.  # it will display as the sub-title
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 description: >-                        # used by seo meta and the atom feed
+<<<<<<< HEAD
   Yo0oN's blog.
 =======
 description: Hi                        # used by seo meta and the atom feed
@@ -22,6 +24,13 @@ description: Hi                        # used by seo meta and the atom feed
 =======
 description: Yo0oN's blog                        # used by seo meta and the atom feed
 >>>>>>> b592793... Update _config.yml
+=======
+description: >-                        # used by seo meta and the atom feed
+  Yo0oN's blog.
+>>>>>>> 269518d... Update _config.yml
+=======
+  Hi
+>>>>>>> add98f2... 깃허브 블로그 생성
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -33,9 +42,6 @@ avatar: /assets/img/avatar.jpg   # support internet resources 프로필 사진 �
 github:
   username: Yo0oN             # change to your github username
 
-notion:
-  username: chl4855            # change to your twitter username
-
 #twitter:
   #username: twitter_username            # change to your twitter username
 
@@ -46,6 +52,7 @@ social:
     # The first element serves as the copyright owner's link
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
 >>>>>>> 7664893... Update _config.yml
@@ -54,6 +61,12 @@ social:
     - https://github.com/Yo0oN       # change to your github homepage
     - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     # Uncomment below to add more social links
+=======
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/Yo0oN       # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
+>>>>>>> add98f2... 깃허브 블로그 생성
     # - https://www.linkedin.com/in/username
 
 #google_site_verification: google_meta_tag_verification # change to your verification string
@@ -217,7 +230,6 @@ exclude:
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
-    - /images/
   accurate:
     - /norobots/
     - /tabs/

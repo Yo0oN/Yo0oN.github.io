@@ -68,7 +68,11 @@
     {% capture url %}
       {%- if entry.type == 'github' -%}
         https://github.com/{{ site.github.username }}
+<<<<<<< HEAD
       {%- elsif entry.type == 'twitter' -%}
+=======
+      {%- elsif entry.type == 'notion' -%}
+>>>>>>> add98f2... 깃허브 블로그 생성
         https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}

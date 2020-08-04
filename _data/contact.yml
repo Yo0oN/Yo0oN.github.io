@@ -8,8 +8,21 @@
   type: github
   icon: 'fab fa-github-alt'
 -
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   type: twitter
+=======
+  type: notion
+>>>>>>> 9fe5eee... Update contact.yml
+=======
+  type: twitter
+>>>>>>> f263faa... Update contact.yml
   icon: 'fa fa-hand-spock-o'
+=======
+  type: notion
+  icon: 'fab fa-hand-spock-o'
+>>>>>>> add98f2... 깃허브 블로그 생성
 -
   type: email
   icon: 'fas fa-envelope'
