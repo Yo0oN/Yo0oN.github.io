@@ -187,7 +187,6 @@ exclude:
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
-    - /images/
   accurate:
     - /norobots/
     - /tabs/
