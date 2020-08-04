@@ -12,7 +12,8 @@ title: Yo0oN                          # the main title
 
 tagline: Yo0oN's blog.  # it will display as the sub-title
 
-description: Yo0oN's blog                        # used by seo meta and the atom feed
+description: >-                        # used by seo meta and the atom feed
+  Yo0oN's blog.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -23,9 +24,6 @@ avatar: /assets/img/avatar.jpg   # support internet resources 프로필 사진 �
 
 github:
   username: Yo0oN             # change to your github username
-
-notion:
-  username: chl4855            # change to your twitter username
 
 #twitter:
   #username: twitter_username            # change to your twitter username
