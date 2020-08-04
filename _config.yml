@@ -12,7 +12,7 @@ title: Yo0oN                          # the main title
 
 tagline: Yo0oN's blog.  # it will display as the sub-title
 
-description: Hi                        # used by seo meta and the atom feed
+description: Yo0oN's blog                        # used by seo meta and the atom feed
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -35,8 +35,8 @@ social:
   email: 4855chl@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     - https://github.com/Yo0oN       # change to your github homepage
+    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     # Uncomment below to add more social links
     # - https://www.linkedin.com/in/username
 
