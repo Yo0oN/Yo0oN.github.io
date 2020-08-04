@@ -13,9 +13,7 @@ title: Yo0oN                          # the main title
 tagline: Yo0oN's blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Hi
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -38,10 +36,10 @@ social:
     #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Yo0oN       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
@@ -83,7 +81,7 @@ theme_mode: dual
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 5 # 메인에서 보여주는 페이지 수
 
 markdown: kramdown
 
