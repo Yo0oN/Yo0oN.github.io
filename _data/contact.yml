@@ -9,7 +9,7 @@
   icon: 'fab fa-github-alt'
 -
   type: notion
-  icon: 'fab fa-hand-spock-o'
+  icon: 'fa fa-hand-spock-o'
 -
   type: email
   icon: 'fas fa-envelope'
