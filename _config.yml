@@ -12,38 +12,8 @@ title: Yo0oN                          # the main title
 
 tagline: Yo0oN's blog.  # it will display as the sub-title
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-description: >-                        # used by seo meta and the atom feed
-<<<<<<< HEAD
-  Yo0oN's blog.
-=======
-description: Hi                        # used by seo meta and the atom feed
->>>>>>> 7664893... Update _config.yml
-=======
-description: Yo0oN's blog                        # used by seo meta and the atom feed
->>>>>>> b592793... Update _config.yml
-=======
 description: >-                        # used by seo meta and the atom feed
   Yo0oN's blog.
->>>>>>> 269518d... Update _config.yml
-=======
-  Hi
->>>>>>> add98f2... 깃허브 블로그 생성
-=======
-description: Hi                        # used by seo meta and the atom feed
->>>>>>> fb62a5c... Update _config.yml
-=======
-description: Yo0oN's blog                        # used by seo meta and the atom feed
->>>>>>> 1ee4f48... Update _config.yml
-=======
-description: >-                        # used by seo meta and the atom feed
-  Yo0oN's blog.
->>>>>>> 7c2f69b... Update _config.yml
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://yo0on.github.io'
@@ -63,33 +33,9 @@ social:
   email: 4855chl@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
->>>>>>> 7664893... Update _config.yml
-=======
->>>>>>> b592793... Update _config.yml
     - https://github.com/Yo0oN       # change to your github homepage
     - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
     # Uncomment below to add more social links
-=======
-    #- https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/Yo0oN       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
->>>>>>> add98f2... 깃허브 블로그 생성
-=======
-    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
-=======
->>>>>>> 1ee4f48... Update _config.yml
-    - https://github.com/Yo0oN       # change to your github homepage
-    - https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
-    # Uncomment below to add more social links
->>>>>>> fb62a5c... Update _config.yml
     # - https://www.linkedin.com/in/username
 
 #google_site_verification: google_meta_tag_verification # change to your verification string
@@ -99,32 +45,8 @@ social:
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 깃허브 블로그로 사용중이니 빈칸으로 둔다. 만약 프로젝트 이름을 적는다면 이름/github.io/프로젝트 로 도메인이 바뀐다.
 baseurl: ''
-=======
-baseurl: '/Yo0oN.githum.io'
->>>>>>> 7664893... Update _config.yml
-=======
-=======
-# 깃허브 블로그로 사용중이니 빈칸으로 둔다. 만약 프로젝트 이름을 적는다면 이름/github.io/프로젝트 로 도메인이 바뀐다.
->>>>>>> 650c294... Update _config.yml
-baseurl: ''
->>>>>>> bf8d8bd... Update _config.yml
-=======
-baseurl: '/Yo0oN.githum.io'
->>>>>>> fb62a5c... Update _config.yml
-=======
-=======
-# 깃허브 블로그로 사용중이니 빈칸으로 둔다. 만약 프로젝트 이름을 적는다면 이름/github.io/프로젝트 로 도메인이 바뀐다.
->>>>>>> 37bc089... Update _config.yml
-baseurl: ''
->>>>>>> 5eb4e08... Update _config.yml
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
