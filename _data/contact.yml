@@ -8,8 +8,8 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fa fa-hand-spock-o'
+  type: notion
+  icon: 'far fa-hand-spock'
 -
   type: email
   icon: 'fas fa-envelope'
