@@ -2,7 +2,7 @@
 title: Consistent Hashing이란? (feat.Memcached)
 modified: 2021-03-26
 author: Yo0oN
-categories: [자료구조&알고리즘, 알고리즘]
+categories: [자료구조&amp;알고리즘, 알고리즘]
 tags: [알고리즘]
 math: true
 ---
