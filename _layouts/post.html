@@ -130,10 +130,18 @@ layout: default
     {% include related-posts.html %}
 
     {% include post-nav.html %}
-
-    {% if site.disqus.comments and page.comments %}
-      {% include disqus.html %}
+          
+    <!-- {% if site.disqus.comments and page.comments %}
+      {% include disqus.html %} -->
     {% endif %}
+          
+    <script src="https://utteranc.es/client.js"
+        repo="Yo0oN/Yo0oN.github.io"
+        issue-term="pathname"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+    </script>
 
     </div> <!-- #post-extend-wrapper -->
 
